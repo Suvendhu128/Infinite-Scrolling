@@ -19,10 +19,6 @@ This JavaScript code provides an example of an infinite image gallery that autom
 - Modify the image rendering and styling to suit your project's requirements.
 
 ---
-
-Feel free to add this explanation to your `README.md` file, and make any additional customizations or clarifications as needed for your project's documentation.
-
- 
 const container = document.getElementById("container");
 Expaln:
 
